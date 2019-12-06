@@ -35,13 +35,18 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 
 ![image](https://user-images.githubusercontent.com/42822276/70299407-b01fb000-17a9-11ea-8a2d-40ad15893033.png)
 
-
-
-
-
-**Bonus Objective:** Build on Objective #4 :XXS
-
 <hr>
+
+## Summary
+
+The number of attacks to the honeypots deployed as of 12/04/19 are as follows
+![image](mhn_project_honeypots/attacks.PNG)
+
+### Payloads 
+
+![image](mhn_project_honeypots/payloads.PNG)
+
+
 
 ### Notes
 
