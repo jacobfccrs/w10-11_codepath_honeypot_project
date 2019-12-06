@@ -31,49 +31,14 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 ![image](https://user-images.githubusercontent.com/42822276/70299097-c37e4b80-17a8-11ea-9b75-469201c56839.png)
 
 * Downloading the .json file was a bit complicated, not sure if it was becasue I'm using Windows for this project, or I was running the commands from the worng instance. I needed more instructions and how to troubleshoot some errors.  
-![user enumeration](Newfolder/green_user_enum.gif)
+
+![image](https://user-images.githubusercontent.com/42822276/70299407-b01fb000-17a9-11ea-8a2d-40ad15893033.png)
 
 
 
 
 
 **Bonus Objective:** Build on Objective #4 :XXS
-![BonusXXS](Newfolder/green_bonus_xxs.gif)
-
-Experiment to see if you can use XSS to: a) direct the user to a new URL, b) read cookie data, c) set cookie data.
-
-* This exploit is basically the same as vulnerability for green #2. Through the feedback comment.
-
-* In this case we use replace alert() statement with a window.location.assign(). I redirect the user to duckduckgo.
-
-
-
-<hr>
-
-<b><h3>Red</h3></b>
-Vulnerability #1 Insecure Object Reference (IDOR)
-
-![idor](Newfolder/red_user_enum.gif)
-
-
-* In the 'find a salesperson' page, we directly change the id parameter in the url.
-
-* Id's 10 and 11 were not supposed to be seen by everyone, but are accesible by simply changing the ID number in the url.
-
-
-
-<hr>
-
-<b><h3>Blue</h3></b> 
-Vulnerability #1 SQL Injection
-
-![sqli](Newfolder/blue_sqli.gif)
-
-* I was able to use an SQL Injection exploit in the salesperson.php page.
-
-* This exploit can be done via the url.
-
-* The injection used was 'code(' OR 1=1'--)'
 
 <hr>
 
