@@ -54,7 +54,7 @@ I was never sure of the mistakes I made in the setup process, as well as how to 
 Downloaded the file by other means that include tranfering the file to bucket within google cloud.
 
 
-For the malwares samples, I figured that is probaly the payloads page. The Suricata honeypot is the on that collected the most samples, followed by snort.
+For the malware samples, I figured that is probaly the payloads page. The Suricata honeypot is the on that collected the most activity, followed by snort. However, I was not able to find a specific malware sample.
 
 
 The attacks came mostly from Vietnam, Mexico and Indonesia.
