@@ -50,7 +50,13 @@ The number of attacks to the honeypots deployed as of 12/04/19 are as follows
 
 ### Notes
 
-For about half an hour I did not know where to start.
-However, the instructions for week 8 gave me an idea on where to begin, and reminded me on the attacks.  
-The easiest exploit I found was enumeration, since the first step I took was to look at login errors, hoping I could get some 
-errors that could lead me to SQLi.
+I was never sure of the mistakes I made in the setup process, as well as how to download the .json file.
+
+
+Downloaded the file by other means that include tranfering the file to bucket within google cloud.
+
+
+When is comes to the malwares samples, I figured that is probaly the payloads page.
+
+
+The attacks came mostly from China, the US, and Mexico.
