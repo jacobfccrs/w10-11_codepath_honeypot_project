@@ -28,6 +28,7 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 
 <b><h3>Issues Encountered</h3></b>
 * Though the instructions were easy to follow, I coiuld not get the MHN server to show some of the icons. Could be that I missed a command. Deploying a honeypot was no a problem whatsoever and setting up the other two was straight forward.
+![image](https://user-images.githubusercontent.com/42822276/70299097-c37e4b80-17a8-11ea-9b75-469201c56839.png)
 
 * Downloading the .json file was a bit complicated, not sure if it was becasue I'm using Windows for this project, or I was running the commands from the worng instance. I needed more instructions and how to troubleshoot some errors.  
 ![user enumeration](Newfolder/green_user_enum.gif)
