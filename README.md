@@ -1,5 +1,5 @@
 # w10-11_codepath_honeypot_project
-
+![image](mhn_project_honeypots/honeypot_map.gif)
 
 Seting up a honepot and intercepting attempted attacks using Modern Honey Network.
 
