@@ -28,7 +28,7 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 
 
 <b><h3>Issues Encountered</h3></b>
-* Though the instructions were easy to follow, I coiuld not get the MHN server to show some of the icons. Could be that I missed a command. Deploying a honeypot was no a problem whatsoever and setting up the other two was straight forward.
+* Though the instructions were easy to follow, I coiuld not get the MHN server to show all of the country icons. Could be that I missed a command. Deploying a honeypot was not a problem whatsoever, and setting up the other two was straight forward.
 ![image](https://user-images.githubusercontent.com/42822276/70299097-c37e4b80-17a8-11ea-9b75-469201c56839.png)
 
 * Downloading the .json file was a bit complicated, not sure if it was becasue I'm using Windows for this project, or I was running the commands from the worng instance. I needed more instructions and how to troubleshoot some errors.  
@@ -37,7 +37,7 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 
 <hr>
 
-## Summary
+# Summary
 
 The number of attacks to the honeypots deployed as of 12/04/19 are as follows
 ![image](mhn_project_honeypots/attacks.PNG)
@@ -46,9 +46,7 @@ The number of attacks to the honeypots deployed as of 12/04/19 are as follows
 
 ![image](mhn_project_honeypots/payloads.PNG)
 
-
-
-### Notes
+Notes
 
 I was never sure of the mistakes I made in the setup process, as well as how to download the .json file.
 
@@ -56,7 +54,9 @@ I was never sure of the mistakes I made in the setup process, as well as how to 
 Downloaded the file by other means that include tranfering the file to bucket within google cloud.
 
 
-When is comes to the malwares samples, I figured that is probaly the payloads page.
+For the malwares samples, I figured that is probaly the payloads page. The Suricata honeypot is the on that collected the most samples. followeb by snort.
 
 
-The attacks came mostly from China, the US, and Mexico.
+The attacks came mostly from Vietnam, Mexico and Indonesia.
+
+view my session.json for more details.
