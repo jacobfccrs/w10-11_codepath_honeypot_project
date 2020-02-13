@@ -31,7 +31,7 @@ Codepath gave instructions on how to set-up and deploy a honeypot. the same inst
 * Though the instructions were easy to follow, I coiuld not get the MHN server to show all of the country icons. Could be that I missed a command. Deploying a honeypot was not a problem whatsoever, and setting up the other two was straight forward.
 ![image](https://user-images.githubusercontent.com/42822276/70299097-c37e4b80-17a8-11ea-9b75-469201c56839.png)
 
-* Downloading the .json file was a bit complicated, not sure if it was becasue I'm using Windows for this project, or I was running the commands from the worng instance. I needed more instructions and how to troubleshoot some errors.  
+* Downloading the .json file was a bit complicated, not sure if it was becasue I'm using Windows for this project, or I was running the commands from the wrong instance. I needed more instructions and how to troubleshoot some errors.  
 
 ![image](https://user-images.githubusercontent.com/42822276/70299407-b01fb000-17a9-11ea-8a2d-40ad15893033.png)
 
